@@ -59,6 +59,16 @@ This project focuses on KPI-driven analysis aligned with the business objective.
 A single integrated dashboard was developed to track and visualize key KPIs.
 Supporting tools and files were used for data preparation, querying, and presentation.
 
+### * Quick View (PDF -no Download needed)
+
+| Tool     | View Link |
+|----------|-----------|
+| Power BI | [🔗 View Power BI Dashboard (PDF)]() |
+| Tableau  | [🔗 View Tableau Dashboard (PDF)]() |
+| Excel    | [🔗 View Excel Dashboard (PDF)]() |
+
+
+### * Full Interactive Files (Download)
 
 | Tool     | View Link |
 |----------|-----------|
