@@ -1,4 +1,4 @@
-#  📊 Olist Store Data Analysis Dashboard
+#  📊 Olist Store Data Analysis Project
 ## 🧩 Project Overview
 
 This project focuses on analyzing Brazilian E-commerce (Olist) data to uncover customer behavior, sales performance, payment preferences, and delivery efficiency.
@@ -131,13 +131,11 @@ Dataset: [📦 Olist Brazilian E-Commerce Public Dataset - Kaggle](https://www.k
 
 ## 👨‍💻 Developed By
 
-**Ganesh [Ganesh Nivas Pawar]**  
+**Ganesh Nivas Pawar**  
 _Data Analyst Intern_  
 [LinkedIn Profile](https://www.linkedin.com/in/ganesh-pawar-735592367/) 
-
-[Portfolio Website](https://your-link-here.com)
-
-[Naukari Profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
+    [Portfolio Website](https://your-link-here.com)
+    [Naukari Profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 ---
 
