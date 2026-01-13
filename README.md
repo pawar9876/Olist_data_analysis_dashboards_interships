@@ -21,6 +21,7 @@ This repository contains a comprehensive data analysis and visualization project
 Olist_data_analysis_dashboards/
 
 │   ├── Data/
+
 │   ├── olist_orders_dataset.csv
 │   ├── olist_customers_dataset.csv
 │   ├── olist_order_items_dataset.csv
@@ -130,9 +131,11 @@ Dataset: [📦 Olist Brazilian E-Commerce Public Dataset - Kaggle](https://www.k
 
 ## 👨‍💻 Developed By
 
-**Ganesh [Your Full Name if applicable]**  
+**Ganesh [Ganesh Nivas Pawar]**  
 _Data Analyst Intern_  
-[LinkedIn Profile](https://your-link-here.com) • [Portfolio Website](https://your-link-here.com)
+[LinkedIn Profile](https://www.linkedin.com/in/ganesh-pawar-735592367/) 
+[Portfolio Website](https://your-link-here.com)
+[Naukari Profile](https://your-link-here.com)
 
 ---
 
